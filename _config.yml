@@ -1,0 +1,8 @@
+title: 郝玉杰的博客
+description: 郝玉杰的博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
